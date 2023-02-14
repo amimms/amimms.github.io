@@ -1,0 +1,66 @@
+---
+title: "Les outils informatiques au service de la recherche #2"
+date: 2023-02-14T18:57:31+01:00
+draft: false
+---
+
+Ce deuxième billet relatif aux outils numériques présente quelques interrogations au sujet de l'*activité matérielle* de la recherche -- j'entends par là le processus par lequel s'opère la récolte, la classification, le traitement et la restitution des informations.
+
+
+Lorsque j'ai commencé la thèse, je souhaitais éviter les problèmes que j'avais rencontré durant la préparation de mon mémoire de Master 2. Les problèmes étaient les suivants :
+- **Organisation catastrophique des notes** : j'avais un unique dossier appelé "Mémoire" dans lequel j'avais entreposé, pêle-mêle :
+	- les fichiers pdf des articles de ma bibliographie ;
+	- un fichier appelé "notes.odt" qui avait pour vocation de regrouper mes "réflexions" ;
+	- un fichier appelé "lectures.odt" ;
+	- et tout un tas d'autres documents ("sans titres.odt" -- "plan.odt" -- "final.odt" etc.) dont je finissais par oublier l'objet ; 
+- Cette organisation *formelle* avait pour conséquence un sérieux manque de contexte et de compréhension globale du sujet. Comment avoir un aperçu de son sujet de recherche lorsque tout est éparpillé ? Comment créer du lien ? 
+
+## Trouver des solutions
+
+Je souhaitais à tout prix éviter de retomber dans un tel chaos, surtout pour un travail de thèse ayant vocation à se développer sur plusieurs années. Pour cela, une solution : trouver un outil capable de répondre à mes attentes et accompagner mon travail au mieux. Voici les critères auxquels devaient répondre cet outil :
+- **Flexibillité** : pour un travail "non linéaire" comme la recherche, il me fallait trouver quelque chose qui puisse s'adapter à de nombreuses situations et évoluer en même temps que mon travail ;
+- **Centralisation** : ce critère d'organisation vise à éviter de se retrouver avec mille et un fichier épars. La centralisation doit aussi avoir pour effet de rendre très efficace la recherche par mots clés dans les notes ; 
+- **Logiciel libre & contrôle des données** : ce critère repose avant tout sur des convictions fortes. J'essaie de rejeter, autant que possible, tout outil qui "capterait" mes données en les enfermant dans un écosystème difficile à quitter. C'est le cas de beaucoup d'outils "propriétaires" qui organisent leur propre système de fichier, de *clouds* et autres -- c'est pratique, mais la flexibilité en est limitée.
+
+Avec ces critères en tête, j'ai trouvé un logiciel open-source ([Joplin](https://joplinapp.org/)) assez simple d'utilisation, bénéficiant d'une solution de *cloud* facultative et permettant d'organiser les notes tel que je le souhaitais.
+
+A la fin de la première année de thèse, cependant, j'ai commencé à rencontrer de nouveaux problèmes et à avoir de nouvelles interrogations. Il était certes aisé, avec Joplin, de faire des recherches dans les notes, de catégoriser les connaissances et de travailler avec des fiches de manière relativement facile, mais la masse d'informations qui commençait à s'accumuler m'inquiétait beaucoup. Comment traiter tout cela ? Comment allais-je faire reprendre mes fiches de lecture, les intégrer dans mes travaux ? Comment prendre du recul ? 
+
+Malgré ce mode de fonctionnement, j'étais retombé dans le travers vécu pendant le mémoire : à côté des innombrables fiches de lecture se trouvaient deux ou trois notes qui réunissaient, sans vraiment de sens logique ou de contexte, les idées que j'avais pu avoir durant la lecture d'articles ou de livres. 
+
+Une bonne organisation des notes ne suffisait pas. Il manquait quelque chose de plus fondamental.
+
+Durant le mois de juillet, j'ai cherché des manières d'améliorer le processus. Je me suis alors interrogé de manière plus approfondie sur ce qu'était le "travail de recherche", non seulement pour répondre à mes proches quand ils me demandent ce que je fais de mes journées, mais aussi pour canaliser et orienter le travail vers des pistes plus fructueuses.
+
+## Le processus de recherche
+
+Pour commencer, j'ai dressé la liste des tâches que j'étais améné à accomplir dans la journée -- le terme de *tâche* désigne les *unités* qui constituent le processus de travail :
+
+- **Lecture** : cette tâche constitue sans aucun doute la part la plus substantielle du processus. Je reviendrai dans des billets futurs sur l'importance de celle-ci, les différents modes de lecture, la prise de note active etc. ;
+- **Ecriture** : la thèse, formellement, est un document écrit de plusieurs centaines de pages. L'écriture constitue, sans aucun doute, une part fort conséquente du travail. Cette tâche est effectuée à des degrés variables ;
+- **Sources et références** : tâche essentielle, sans laquelle la lecture tourne à vide. Elle se caractérise par un fort taux de décisions, par de la méthode stricte et un peu de hasard ;
+- **Réflexions et prise de recul** : tâche qui accompagne l'écriture -- "j'écris, donc je pense". La fonction de cette tâche est de trouver les liens, les connexions entre ce qu'on lit et ce qu'on pense, ce qu'on pense et ce qu'on lit, ce qu'on lit et ce qu'on lit... Bref, de trouver *la cohérence dans l'incohérent*.
+
+Cette liste n'est évidement pas exhaustive ni même figée -- je serai heureux de lire un point de vue contraire pour l'amender et / ou la préciser.  
+
+De cette présentation sommaire du processus de recherche naît donc la question suivante : *comment rendre efficace et cohérent ce travail au quotidien ?*
+
+Il existe une longue histoire du travail scientifique et de recherche. Je n'ai pas l'intention de présenter cette histoire aujourd'hui [^1]. Je concluerai ce billet en présentant un concept permettant de structurer l'*activité matérielle* de la recherche : le *deuxième cerveau*. 
+
+## Le deuxième cerveau : externalisation
+
+Le concept de *deuxième cerveau* (*second brain*) semble aujourd'hui attribué à un auteur très présent sur les réseaux, Tiago Forte, mais l'idée fondatrice derrière l'expression est le suivante : *externaliser les connaissances afin de se laisser le maximum d'espace mental pour la réflexion, la conceptualisation et la mise en contexte*.
+
+Il existe de nombreuses manières d'accomplir cela. Niklas Luhmann, par exemple, a développé un système appelé *Zettelkasten* (*boîte à idées*) reposant sur deux idées clefs : *l'atomicité* des notes et le *lien*. D'autres, à sa suite, ont développé d'autres idées (*evergreen notes* d'Andy Matuschak, le *digital garden*, le système *PARA* etc.) qui reprennent le même noyau pour s'adapter aux besoins de chacun [^2].
+
+A titre personnel, ce que je tire de tout cela pour mon processus de recherche sont les éléments suivants :
+- L'organisation des notes par **dossier** et par ***hashtags*** ;
+- Le **lien entre les notes** -- c'est-à-dire, s'assurer, à tout moment, que mes notes de travail renvoient à d'autres notes déjà prises. Cela me permet, lors des phases d'écriture et de réflexion, de naviguer aisément au sein de mes notes et de donner du *contexte* à celles-ci. Certains programmes peuvent, sur la base de ces liens, former des *graphes* de connaissance utile à la réflexion ;
+- L'**atomicité conceptuelle des notes** : sans doute l'élément le plus difficile à adopter, dans la mesure où, dans les phases de recherche, les définitions et concepts sont encore très entremêlés. L'idée principale à retenir est qu'une note de travail ne doit contenir qu'une idée, qu'un concept.
+
+Je m'arrête ici pour aujourd'hui. Le prochain billet présentera un outil fort utile à la mise en place de ces éléments : *ObsidianMD*. 
+
+N'hésitez pas à me [contacter](mailto:alexandre.mimms@u-paris2.fr) pour échanger sur le sujet ! 
+
+[^1]: Je renvoie, dans l'attente d'une présentation plus longue et pertinente de ce sujet, vers l'idée de *[Personal Information Management](https://en.wikipedia.org/wiki/Personal_information_management)*. 
+[^2]: Il est facile de se perdre dans le vocabulaire et la foultitude de termes sur le sujet. Vous pouvez consulter ce billet qui reprend les termes principaux pour vous familiariser avec : https://medium.com/@raysims/a-personal-knowledge-management-glossary-6037d775f87b
