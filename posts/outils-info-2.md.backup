@@ -1,12 +1,12 @@
 ---
-title: "Les outils informatiques au service de la recherche #2"
+title: "Les outils informatiques au service de la recherche #2 - L'activité matérielle"
 date: 2023-02-14T18:57:31+01:00
 draft: false
 ---
 
 Ce deuxième billet relatif aux outils numériques présente quelques interrogations au sujet de l'*activité matérielle* de la recherche -- j'entends par là le processus par lequel s'opère la récolte, la classification, le traitement et la restitution des informations.
 
-Lorsque j'ai commencé la thèse, je souhaitais éviter les problèmes que j'avais rencontré durant la préparation de mon mémoire de Master 2. Les problèmes étaient les suivants :
+Lorsque j'ai commencé la thèse, je souhaitais éviter les problèmes que j'avais rencontrés durant la préparation de mon mémoire de Master 2. Les problèmes étaient les suivants :
 - **Organisation catastrophique des notes** : j'avais un unique dossier appelé "Mémoire" dans lequel j'avais entreposé, pêle-mêle :
 	- les fichiers pdf des articles de ma bibliographie ;
 	- un fichier appelé "notes.odt" qui avait pour vocation de regrouper mes "réflexions" ;
