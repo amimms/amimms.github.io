@@ -1,5 +1,5 @@
 ---
-title: "Les outils informatiques au service de la recherche #1"
+title: "Les outils informatiques au service de la recherche #1 - Zotero"
 date: 2023-01-16T19:16:40+01:00
 draft: false
 ---
