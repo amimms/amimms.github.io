@@ -33,7 +33,7 @@ Aujourd'hui, je prendrai un autre exemple, plus spécifique que celui de Zotero,
 
 ## Python et les Regex
 
-Dans mon [billet sur Markdown]({{< ref "posts/2023/03/mardown-simplicite.md" >}}), j'ai mis en avant à plusieurs reprises que l'un des avantages de MD est le format des fichiers. Ici, je vais exploiter cet intérêt pour opérer une transformation d'ampleur et complètement automatisée des notes en utilisant deux outils :
+Dans mon [billet sur Markdown]({{< ref "posts/2023/02/mardown-simplicite.md" >}}), j'ai mis en avant à plusieurs reprises que l'un des avantages de MD est le format des fichiers. Ici, je vais exploiter cet intérêt pour opérer une transformation d'ampleur et complètement automatisée des notes en utilisant deux outils :
 - [Python](https://www.python.org/), un langage de programmation ;
 - Les expressions régulières, aussi appelées Regex (pour *regular expression*), qui sont des formules permettant de retrouver tout type de contenu et de le capturer.
 
