@@ -1,7 +1,7 @@
 ---
-title: "Python & Regex -- application pratique"
+title: "Python & Regex - application pratique"
 date: 2023-03-11T11:20:25+01:00
-draft: true
+draft: false
 author: ["Alexandre"]
 ---
 
@@ -52,11 +52,11 @@ La première phase implique de récupérer les données dans les fichiers. Il fa
 
 Pour accomplir cela, rien de mieux qu'une expression régulière. Ces suites de caractères spéciaux permettent de décrire très précisément un ensemble de caractère possible. 
 
-> Ex. La chaîne `[a-z]` désigne une lettre minuscule quelconque de l'alphabet. 
+> :writing_hand: Ex. La chaîne `[a-z]` désigne une lettre minuscule quelconque de l'alphabet. 
  
 En plus d'indiquer quels sont les caractères que l'on recherche, on peut aussi demander à l'ordinateur de *récupérer* certains caractères, mots, phrases, dans une variable pour les réutiliser par la suite -- et non pas uniquement *remplacer* des caractères !
 
-> Pour une introduction complète aux Regex, voir [ici](https://regexone.com/). 
+> :fire: Pour une introduction complète aux Regex, voir [ici](https://regexone.com/). 
 
 En utilisant une expression de ce type, il est ainsi possible de dire à l'ordinateur que je souhaitais retrouver, dans mes fiches de lecture, toutes les citations ou tous les commentaires, ainsi que les numéros de page associés dans les tableaux, de stocker ces informations dans une variable puis de les resituer dans une chaîne de caractère redéfinie à mon souhait.
 
