@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Mimms;Alexandre;;;
+FN:Alexandre Mimms
+ORG:
+ADR;TYPE=WORK:Université Paris-Panthéon-Assas
+TITLE:Doctorant en droit public
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:
+URL;TYPE=Digital Business Card:
+URL:https://carnetdethese.amimms.fr
+URL;TYPE=Signal:https://signal.me/#p/686363205
+URL;TYPE=Website:https://carnetdethese.amimms.fr
+URL;TYPE=LinkedIn:https://linkedin.com/in/alexandre-mimms
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100555204
+END:VCARD
