@@ -6,14 +6,27 @@ hr {
 }
 
 .callout {
+  display: flex;
+  align-items: flex-start;
   padding: 15px;
   margin: 20px 0;
   border: 1px solid #fffdcc;
   border-left-width: 5px;
   border-radius: 3px;
+  gap: 10px;
 }
 
 .callout-warning {
   background-color: #ff8989;
   border-color: #ff7f6e;
+}
+
+.callout-icon {
+  font-size: 24px; /* Adjust size as needed */
+  margin-right: 5px; /* Space between icon and text */
+  color: #856404; /* Adjust color as needed */
+}
+
+.callout-content {
+  flex: 1;
 }
